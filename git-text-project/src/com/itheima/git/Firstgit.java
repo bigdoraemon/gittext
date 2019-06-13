@@ -12,6 +12,8 @@ public class Firstgit {
     public void test(){
         int i=1;
         i+=10;
+        //哈喽
+        System.out.println(i);
     }
 
 }
