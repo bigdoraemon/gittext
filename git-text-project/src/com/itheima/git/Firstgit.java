@@ -8,4 +8,10 @@ public class Firstgit {
         System.out.println("hellogit");
         System.out.println("hellogit");
     }
+
+    public void test(){
+        int i=1;
+        i+=10;
+    }
+
 }
